@@ -1,4 +1,3 @@
-[13:19, 14/05/2025] Matheus Henrique: using System;
 using System.Collections.Generic;
 
 public class Estacionamento
@@ -74,3 +73,4 @@ public class Estacionamento
         estacionamento.ListarVeiculos();
     }
 }# estacionamento-dotnet
+txt.
